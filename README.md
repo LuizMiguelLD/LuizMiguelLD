@@ -15,28 +15,28 @@
 
 <h3>Tecnologias 🌐</h3>
 <img
-    alt="HTML";
-    title="HTML";
-    width="30px";
+    alt="HTML"
+    title="HTML"
+    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
->
+/>
 <img 
-    alt="CSS";
-    title="CSS";
-    width="30px";
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"; 
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img
-    alt="Java";
-    title="Java";
-    width="30px";
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"; 
+    alt="Java"
+    title="Java"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img
-    alt="SQL Server";
-    title="SQL Server";
-    width="30px";
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg";  
+    alt="SQL Server"
+    title="SQL Server"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  
 />
 
 
