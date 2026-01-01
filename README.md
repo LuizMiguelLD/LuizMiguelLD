@@ -43,6 +43,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  
 />
 
+<br>
 
 <h3>Contato 📫</h3>
 <p><strong>Email</strong>: migueldavidlo2005@gmail.com</p>
