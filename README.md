@@ -35,13 +35,6 @@
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img
-    align="left"
-    alt="SQL Server"
-    title="SQL Server"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  
-/>
 
 <br>
 
