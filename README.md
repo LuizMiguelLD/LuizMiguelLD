@@ -13,31 +13,6 @@
     <li><strong>📶 Disciplina</strong>: busco manter a constância nos estudos e nos projetos.</li>
 </ul>
 
-<h3>Tecnologias 🌐</h3>
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<br>
-
 <h3>Contato 📫</h3>
 <p><strong>Email</strong>: migueldavidlo2005@gmail.com</p>
 
