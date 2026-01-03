@@ -25,13 +25,13 @@
     title="CSS";
     width="30px";
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+>
 <img
     alt="Java";
     title="Java";
     width="30px";
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+>
 
 <h3>📫 Contato</h3>
 <p><strong>Email</strong>: migueldavidlo2005@gmail.com</p>
