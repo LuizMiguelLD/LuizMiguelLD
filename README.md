@@ -3,7 +3,7 @@
 
 <h3>🔎 Sobre mim</h3>
 <p>Me chamo Luiz Miguel, atualmente sou estudante da Etec de Guaianazes. Comecei na área criando pequenos jogos na Roblox em 2023, aprendi a maior parte da sintaxe de Luau (linguagem de programação usada).</p>
-<p>Então fui seguindo nessa linguagem até 2024. Em 2025 na parte de front-end, aprendi boa parte de HTML, CSS e um pouco de JS. Agora na parte de back-end, aprendi SQL, Java e Python.</p>
+<p>Então fui seguindo nessa linguagem até 2024. Em 2025 na parte de front-end, aprendi boa parte de HTML, CSS e um pouco de JS. Agora na parte de back-end, aprendi SQL, Java e Python. Criei uma boa base para cada linguagem, mas em 2026 vou me aprofundar mais</p>
 
 <h3>✨️ Pontos Fortes</h3>
 <ul>
