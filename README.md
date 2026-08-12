@@ -13,8 +13,6 @@
     <li><strong>📶 Disciplina</strong>: busco manter a constância nos estudos e nos projetos.</li>
 </ul>
 
-<br>
-
 <h3>📫 Contato</h3>
 <p><strong>Email</strong>: migueldavidlo2005@gmail.com</p>
 
